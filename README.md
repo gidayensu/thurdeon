@@ -1,9 +1,5 @@
 # Hi there, I'm Gideon! 👋
 
-
-## About Me
-
-
 - 🚀 Continuously learning and exploring 
 
 ## Get in Touch
